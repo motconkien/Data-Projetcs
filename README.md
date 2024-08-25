@@ -14,7 +14,7 @@ Project: Scrapping Data of Product on Amazon and Analysis
 - Igesting data and save in CSV file
 - After cleaning and normalize data, put data to database using SQL
 - Show insights of users when buying machine keyboard
-- Data visualization via python or Power BI
+- Data visualization via python or Power BI,Tableu
 
 3. Note
 Because Amazon server returns error if sending requests too quick -> break time
