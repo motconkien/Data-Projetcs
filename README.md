@@ -19,3 +19,8 @@ Project: Scrapping Data of Product on Amazon and Analysis
 3. Note
 Because Amazon server returns error if sending requests too quick -> break time
 Exacting data and load database has too much time -> giving function to choose range page to get data
+
+
+
+
+
