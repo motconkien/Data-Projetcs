@@ -10,7 +10,7 @@ Project: Scrapping Data of Product on Amazon and Analysis
 - Show insights of users when buying machine keyboard
 - Data visualization via python
 
-3. Summary Insight(updated after analysing) <br>
+3. Summary Insight(updated after analysing)
 3.1. Price Distribution:
 - Most keyboards are priced between $25 and $50.
 - Outliers include the SteelSeries brand with a consistent price of - $139.99 and the MANHATTAN brand at $11.49.
