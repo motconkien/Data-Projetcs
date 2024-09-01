@@ -1,5 +1,5 @@
 # Data-Projetcs
-Project: Scrapping Data of Product on Amazon and Analysis
+## Project: Scrapping Data of Product on Amazon and Analysis
 1. Requirements
 - Product: Gaming keyboard
 - Purpose: The purpose of this analysis is to gain a comprehensive understanding of the market trends, consumer preferences, and brand positioning within the keyboard industry on Amazon.
@@ -48,6 +48,15 @@ ROCCAT holds the lowest rank, showing that lower-ranked products can still be vi
 - MARVO specializes in smart TV-compatible keyboards, competing with Logitech in this niche market.
 
 
+## Project: Scrapping Data of Couresa
+1. Requirements 
+- Collect 200 lessons with optional topics
+- Data collection: 
+    - Courses information: course name, unit, review number, average star, level and output of courses
+    - Courses reviews: course name, reviewer name, date of review, review content and rating star
+
+2. Output
+Data will be saved in csv format
 
 
 
