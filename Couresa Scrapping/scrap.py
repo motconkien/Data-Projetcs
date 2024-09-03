@@ -86,7 +86,7 @@ for link in links_container:
         print(f'An error occured: {e}')
     
     finally:
-        with open('course.json','a') as file:
+        with open('course.json','w') as file:
             json.dump(data,file,indent=4)
         print('Data written to course.json')
         driver.close()
