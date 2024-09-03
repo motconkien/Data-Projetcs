@@ -54,9 +54,10 @@ ROCCAT holds the lowest rank, showing that lower-ranked products can still be vi
 - Data collection: 
     - Courses information: course name, unit, review number, average star, level and output of courses
     - Courses reviews: course name, reviewer name, date of review, review content and rating star
+Updated: using selenium to react with web directly (only a link in list links)
 
 2. Output
-Data will be saved in csv format
+Data will be saved in csv format or json format
 
 
 
